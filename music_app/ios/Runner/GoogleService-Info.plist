@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>579583112696-dhfdmtc2m62j7ui6kue2rpmdhkh8s484.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.579583112696-dhfdmtc2m62j7ui6kue2rpmdhkh8s484</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDfohkdrvwUtNWLv3ZxzbGVhSNd370tJCU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>579583112696</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.RomaniAbdo.musicApp</string>
+	<key>PROJECT_ID</key>
+	<string>dinle-dinle-b01f3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dinle-dinle-b01f3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:579583112696:ios:5f232dbca56c56bd0c920d</string>
+</dict>
+</plist>
