@@ -1,0 +1,6 @@
+framework module ringtone_set {
+  umbrella header "ringtone_set-umbrella.h"
+
+  export *
+  module * { export * }
+}
