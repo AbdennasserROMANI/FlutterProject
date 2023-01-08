@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "579583112696",
+    "project_id": "dinle-dinle-b01f3",
+    "storage_bucket": "dinle-dinle-b01f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579583112696:android:bfb05156fe557b130c920d",
+        "android_client_info": {
+          "package_name": "com.RomaniAbdo.music_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579583112696-so8ke9b1ufiph799d359qir4rss8p0bk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdcCzTt7IjpnQy7dc1HQ61BnOVRM0JQco"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579583112696-so8ke9b1ufiph799d359qir4rss8p0bk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
