@@ -2,6 +2,6 @@
 
 lütfen bu linkten apk dosyasını indirin
 
-https://www.mediafire.com/file/ym2gfi4r5151fqq/app-release.apk/file
+https://www.mediafire.com/file/v8xl14ktvq5qkv8/Dinle_Dinle_app-release.apk/file
 
 
